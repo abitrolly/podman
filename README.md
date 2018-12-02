@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/containers/podman.io/master/images/podman.svg?sanitize=true" alt="podman">
   <br />
-  podman
 </h1>
 
 <p align="center"><b>This is the snap for <a href="https://podman.io/">podman</a></b>, <i>“Managing Pods, Containers, and Container Images in Multiple Formats (Docker, OCI, ...).”</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
