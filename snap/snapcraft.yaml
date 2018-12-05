@@ -28,6 +28,7 @@ parts:
      - libc6-dev
      - libgpgme11-dev
      - libgpg-error-dev
+     - libostree-dev
      - libprotobuf-dev
      # https://github.com/containers/libpod/issues/1943
      #- libprotobuf-c0-dev
