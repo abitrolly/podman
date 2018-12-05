@@ -29,7 +29,9 @@ parts:
      - libgpgme11-dev
      - libgpg-error-dev
      - libprotobuf-dev
-     - libprotobuf-c0-dev
+     # https://github.com/containers/libpod/issues/1943
+     #- libprotobuf-c0-dev
      - libseccomp-dev
      - libselinux1-dev
-     - pkg-conf
+     - pkg-config
+
