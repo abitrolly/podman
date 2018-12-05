@@ -15,6 +15,7 @@ parts:
   podman:
     plugin: go
     source: https://github.com/containers/libpod/archive/v0.11.1.1.tar.gz
+    go-importpath: github.com/containers/libpod
     build-packages:
      # https://github.com/containers/libpod/blob/master/install.md#build-and-run-dependencies
      - btrfs-tools
